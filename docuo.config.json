@@ -3,16 +3,19 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "Documentos%20Rodrigo%20Dittrich",
+      "logo": "https://media-resource.spreading.io/docuo/workspace369/76c6daf2dfd84012695bde3abf7cac5b/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": "image/logo.png",
