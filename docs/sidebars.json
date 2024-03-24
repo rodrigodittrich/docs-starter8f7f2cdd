@@ -2,7 +2,7 @@
   "mySidebar": [
     {
       "type": "category",
-      "label": "Overview",
+      "label": "Visão geral",
       "items": [
         {
           "type": "doc",
@@ -11,8 +11,8 @@
         },
         {
           "type": "doc",
-          "id": "overview/getting-started",
-          "label": "Getting Started"
+          "id": "documents/getting-started",
+          "label": "Sobre"
         }
       ]
     }
